@@ -81,7 +81,7 @@ tight tolerance.
 
 ## Screenshots
 
-_Screenshots coming soon._
+![Simply supported beam with central point load](docs/screenshots/ss_point_load.png)
 
 ## Running the tests
 
